@@ -1,4 +1,4 @@
-#SQLiScan
+## SQLiScan
 
 ## About the Tool ⚒️
 

@@ -3,6 +3,9 @@
 
 `sqliscan` is a simple Python tool designed for detecting SQL injection vulnerabilities in web applications.
 
+
+![Tool](assets/images/sqliscan.jpg)
+
 ## Features ⚙️
 
 - **URL Scanning:** Identifies and scans for SQL injection vulnerabilities in a provided URL.
@@ -22,6 +25,13 @@ Before using `sqliscan`, make sure you have the following prerequisites installe
    pip install requests
    pip install beautifulsoup4
 
+
+## Installation ⬇️
+
+```bash
+pip install sqliscan
+sudo cp ~/.local/bin/sqliscan /usr/bin
+```
 
 ## Usage 🚀
 
@@ -46,10 +56,10 @@ Example: sqliscan -i target.txt
 This script is intended for educational and ethical purposes only. Unauthorized use of this script to perform malicious activities is strictly prohibited. The developers are not responsible for any misuse or damage caused by this script.
 
 ## Version History 🕒
-`v1.0`: Find SQLi Vulnerabilities in forms by using basic payload 
-`v1.1`: Fixed import module issues
-`v1.1.1`: Fixed Bugs
-`v1.1.2`: Fixed Bugs
+- `v1.0`: Find SQLi Vulnerabilities in forms by using basic payload 
+- `v1.1`: Fixed import module issues
+- `v1.1.1`: Fixed Bugs
+- `v1.1.2`: Fixed Bugs
 
 
 ### Profile Views 👁️

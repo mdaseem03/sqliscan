@@ -62,6 +62,8 @@ This script is intended for educational and ethical purposes only. Unauthorized 
 - `v1.1.1`: Fixed Bugs
 - `v1.1.2`: Fixed Bugs
 
+## PyPi Module Link
+[Click Here](https://pypi.org/project/sqliscan/)
 
 ### Profile Views 👁️
 ![](https://komarev.com/ghpvc/?username=mdaseem03&color=lightgrey&style=flat-square&label=VIEWS+COUNT)

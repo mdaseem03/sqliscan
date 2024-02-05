@@ -1,3 +1,4 @@
+#SQLiScan
 
 ## About the Tool ⚒️
 

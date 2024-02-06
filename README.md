@@ -61,7 +61,8 @@ This script is intended for educational and ethical purposes only. Unauthorized 
 - `v1.1`: Fixed import module issues
 - `v1.1.1`: Fixed Bugs
 - `v1.1.2`: Fixed Bugs
-
+- `v1.2`: Finds SQLi in GET parameters from url
+  
 ## PyPi Module Link
 [Click Here](https://pypi.org/project/sqliscan/)
 
